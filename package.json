@@ -4,7 +4,7 @@
   "description": "Backend Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/rajanDevelopers/BigProject/issues"
   },
-  "homepage": "https://github.com/rajanDevelopers/BigProject#readme"
+  "homepage": "https://github.com/rajanDevelopers/BigProject#readme",
+  "dependencies": {
+    "-": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
