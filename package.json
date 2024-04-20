@@ -1,0 +1,24 @@
+{
+  "name": "bigproject",
+  "version": "1.0.0",
+  "description": "Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanDevelopers/BigProject.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanDevelopers/BigProject/issues"
+  },
+  "homepage": "https://github.com/rajanDevelopers/BigProject#readme"
+}
